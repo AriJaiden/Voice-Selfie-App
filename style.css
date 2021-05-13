@@ -1,0 +1,23 @@
+#start
+{
+    width: 15%;
+    background-color: palevioletred;
+} 
+#camera
+{
+    width:300px;
+    height: 300px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background-color:paleturquoise;
+}
